@@ -1,0 +1,40 @@
+.header__logo {
+    display: flex;
+    align-items: center;
+    column-gap: 13px;
+    color: var(--color-main);
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    letter-spacing: 1.2px;
+}
+
+.header__menu {
+    padding-top: 46px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header__nav {
+    display: flex;
+    align-items: center;
+    column-gap: 65px;
+}
+
+.header__nav li a {
+    color: var(--color-main);
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 0.22px;
+}
+
+.header__nav li .header__nav-btn {
+    border-radius: 7px;
+    background: #000;
+    padding: 13px 22px 17px;
+    color: #fff;
+}

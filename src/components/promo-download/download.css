@@ -1,0 +1,37 @@
+.download__section {
+    margin-top: 220px;
+}
+
+.download__body {
+    display: flex;
+    padding-inline: 119px;
+    align-items: center;
+    justify-content: space-between;
+    column-gap: 40px;
+}
+
+.download__text h4 {
+    color: var(--color-main);
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 150%; 
+    letter-spacing: 2.88px;
+}
+
+.download__text p {
+    margin-top: 41px;
+    color: #7C7C7C;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.45; 
+    letter-spacing: -0.96px;
+}
+
+.download__btns {
+    margin-top: 65px;
+    display: flex;
+    align-items: center;
+    column-gap: 20px;
+}

@@ -1,0 +1,16 @@
+.brands { 
+    margin-top: 63px;
+    background-color: #EBD96B;
+}
+
+.brands__list {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    padding: 58px 74px;
+}
+
+.brands__list img{
+    mix-blend-mode: multiply;
+}

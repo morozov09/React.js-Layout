@@ -1,0 +1,11 @@
+.favourite__section {
+    margin-top: 190px;
+}
+
+.favourite__cards {
+    margin-top: 118px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    column-gap: 10px;
+}
